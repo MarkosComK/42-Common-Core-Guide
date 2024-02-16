@@ -10,7 +10,7 @@
 
 - 👥 ```Who Marks Your Project```
 
-- :☑️: ```How Many Evaluation Points You Need To Be Marked On That Project```
+- ☑️ ```How Many Evaluation Points You Need To Be Marked On That Project```
 
 <br>
 
