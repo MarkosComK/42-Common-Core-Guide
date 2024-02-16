@@ -22,7 +22,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **Libft (C - Solo Project)** - In progress
 
- 🌑```BlackHole: 60 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | :☑️: ```3 Evaluation Points```
+ 🌑 ```BlackHole: 60 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
@@ -32,19 +32,19 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - In progress
 
-🌑 ```BlackHole: 14 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 14 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Ft_Printf (C - Solo Project)** - In progress
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **Get_Next_Line (C - Solo Project)** - In progress 
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 
 <br>
@@ -55,19 +55,19 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **MiniTalk** **(C - Solo Project)** - In progress
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points``` 
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points``` 
 
 <br>
 
 2️⃣ **So_Long** **(C - Solo Project)** - In progress
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **Push_Swap (C - Solo Project)** - In progress
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
@@ -84,13 +84,13 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **Philosophers (C - Solo Project)** - In progress
 
-🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - In progress
 
-🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
@@ -108,19 +108,19 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **NetPractice (N2️⃣king - Solo Project)** - In progress
 
-🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Cub3D (C - Group Project)** - In progress
 
-🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 45 Mins``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 45 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - In progress
 
-🌑 ```BlackHole: 50 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins each Module``` | 👥 ```2 Peers Per Module``` | :☑️: ```2 Evaluation Points Per Module```
+🌑 ```BlackHole: 50 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins each Module``` | 👥 ```2 Peers Per Module``` | ☑️ ```2 Evaluation Points Per Module```
 
 <br>
 
@@ -139,19 +139,19 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **C++ Modules 05-09 (C++ - Solo Projects)** - In progress
 
-🌑 ```BlackHole: Unknown Yet``` | 🕑 ```Evaluation Length: 15 Mins each Module``` | :☑️: ```Evaluator: Common Core Rank 01``` | 👥 ```2 Peers Per Module``` | :☑️: ```2 Evaluation Points Per Module```
+🌑 ```BlackHole: Unknown Yet``` | 🕑 ```Evaluation Length: 15 Mins each Module``` | ☑️ ```Evaluator: Common Core Rank 01``` | 👥 ```2 Peers Per Module``` | ☑️ ```2 Evaluation Points Per Module```
 
 <br>
 
 2️⃣ **Ft_irc (C++ - Group Project)** - In progress
 
-🌑 ```BlackHole: 80 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 80 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **Inception (Docker - Solo Project)** - In progress
 
-🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 30 Mins``` | :☑️:| 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 30 Days Without Bonus``` | 🕑 ```Evaluation Length: 30 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
@@ -167,7 +167,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - In progress
 
-🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | :☑️: | 👥 ```Only 3 Peers``` | :☑️: ```3 Evaluation Points```
+🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
 <br>
 
