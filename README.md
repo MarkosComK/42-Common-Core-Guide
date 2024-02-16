@@ -179,13 +179,13 @@ You Start The Common Core With 77 BlackHole Days.
 
 <div align="center">
 
-### :balloon: END OF THE 42 COMMON CORE 🎈
+### 🎈 END OF THE 42 COMMON CORE 🎈
 
 </div>
 
 <br>
 
-### ℹ️ Common Core
+### Common Core
 
 - 🖥️ Only Libft, Printf, Get_Next_Line and Exams are moulinette graded, with the remaining projects being only peer-graded. 
 
