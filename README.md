@@ -20,7 +20,9 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **Libft (C - Solo Project)** - In progress
+1️⃣ **Libft (C - Solo Project)** - ✅
+
+<a src="https://github.com/MarkosComK/42-Libft" target="_blank">Repository</a>
 
  🌑 ```BlackHole: 60 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
