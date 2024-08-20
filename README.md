@@ -19,7 +19,7 @@ You Start The Common Core With 77 BlackHole Days.
 ## ⚪ Common Core Rank 00
 </div>
 
-1️⃣ **Libft (C - Solo Project)** - ✅
+1️⃣ **Libft (C - Solo Project)** - ✅ 125/100
 
  🌑 ```BlackHole: 60 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
@@ -30,7 +30,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - ✅
+1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 14 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
@@ -38,7 +38,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
-2️⃣ **Ft_Printf (C - Solo Project)** - ✅
+2️⃣ **Ft_Printf (C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
@@ -46,7 +46,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
-3️⃣ **Get_Next_Line (C - Solo Project)** - ✅
+3️⃣ **Get_Next_Line (C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Moulinette and 3 Peers``` | ☑️ ```3 Evaluation Points```
 
