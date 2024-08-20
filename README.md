@@ -30,7 +30,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - In progress
+1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - ✅
 
 🌑 ```BlackHole: 14 Days Without Bonus``` | 🕑 ```Evaluation Length: 1 Hour``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
