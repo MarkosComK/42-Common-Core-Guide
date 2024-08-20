@@ -58,9 +58,11 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **MiniTalk** **(C - Solo Project)** - In progress
+1️⃣ **Pipex** **(C - Solo Project)** - Missing evaluation
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points``` 
+
+[Repository](https://www.github.com/MarkosComK/42-Pipex)
 
 <br>
 
