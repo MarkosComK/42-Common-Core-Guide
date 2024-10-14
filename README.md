@@ -79,6 +79,8 @@ You Start The Common Core With 77 BlackHole Days.
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
+[Repository](https://www.github.com/MarkosComK/42-Push_swap)
+
 <br>
 
 🖥️ Exam Rank 02 - ✅ 100/100
@@ -96,11 +98,15 @@ You Start The Common Core With 77 BlackHole Days.
 
 🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
+[Repository](https://www.github.com/MarkosComK/42-Philosophers)
+
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - In progress
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
+
+[Repository](https://www.github.com/MarkosComK/42-Minishell)
 
 <br>
 
