@@ -59,7 +59,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **Pipex** **(C - Solo Project)** - Missing evaluation
+1️⃣ **Pipex** **(C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points``` 
 
@@ -67,7 +67,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
-2️⃣ **So_Long** **(C - Solo Project)** - In progress
+2️⃣ **So_Long** **(C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
@@ -75,7 +75,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
-3️⃣ **Push_Swap (C - Solo Project)** - In progress
+3️⃣ **Push_Swap (C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 20 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
