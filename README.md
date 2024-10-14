@@ -104,7 +104,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
-🖥️ Exam Rank 03 - In progress
+🖥️ Exam Rank 03 - ✅ 100/100
 
 🌑 ```BlackHole: 0 Days``` | ⏰ ```Exam Length: 2 to 4 Hours``` | 👥 ```Moulinette Only```
 
