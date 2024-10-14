@@ -92,7 +92,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **Philosophers (C - Solo Project)** - In progress
+1️⃣ **Philosophers (C - Solo Project)** - ✅ 125/100
 
 🌑 ```BlackHole: 40 Days Without Bonus``` | 🕑 ```Evaluation Length: 15 Mins``` | 👥 ```Only 3 Peers``` | ☑️ ```3 Evaluation Points```
 
