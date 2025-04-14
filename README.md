@@ -1,4 +1,4 @@
-## Read:
+## Before start:
 Hello, dear student. During this amazing challenge, enjoy your path, and if you need any assistance, feel free to contact me on Slack or any of my other socials; you can find them at the beginning of my github or using my nickname on Slack - marsoare. Good luck & good studies!
 
 ## Common Core Information
